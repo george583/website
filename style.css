@@ -1,0 +1,17 @@
+@media (min-width: 800px){
+    .navbar-nav.navbar-center {
+        position: absolute;
+        left: 50%;
+        transform: translatex(-50%);
+    }
+}
+
+#nav-link{
+    padding-left:100px;
+    padding-right:30px;
+  }
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
